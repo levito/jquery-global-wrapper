@@ -2,6 +2,15 @@
   "name": "jquery",
   "version": "1.0.0",
   "description": "global jQuery wrapper",
+  "keywords": ["jquery", "global", "wrapper"],
+  "homepage": "https://github.com/levito/jquery-global-wrapper",
+  "licence": "MIT",
+  "author": {
+    "name": "Veit Lehmann"
+  },
   "main": "index.js",
-  "private": "true"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levito/jquery-global-wrapper.git"
+  }
 }
