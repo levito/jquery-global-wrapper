@@ -1,0 +1,7 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "global jQuery wrapper",
+  "main": "index.js",
+  "private": "true"
+}
